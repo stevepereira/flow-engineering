@@ -55,4 +55,4 @@ Early in 2021, the Flow Roadmap arose as a tool to leverage all of the insights 
 ![Flow Engineering image 3](fe3.jpeg)
   \
   \
-Since then, it's been adopted by others who are now contributing to its direction and evolution, which is the reason for creating this repo to capture and foster the practices and resources that can help teams leverage techniques to improve the flow of value through organizations. In Q2 2021, the 4x4 ebook was adapted to focus on flow engineering and published as an ebook with that title, [available here](https://vzbl.io/flowengineering) at https://vzbl.io/flowengineering
+Since then, it's been adopted by [others](https://xodiac.ca/services/flow-engineering) who are now contributing to its direction and evolution, which is the reason for creating this repo to capture and foster the practices and resources that can help teams leverage techniques to improve the flow of value through organizations. In Q2 2021, the 4x4 ebook was adapted to focus on flow engineering and published as an ebook with that title, [available here](https://vzbl.io/flowengineering) at https://vzbl.io/flowengineering
