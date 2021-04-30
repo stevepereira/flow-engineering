@@ -30,6 +30,8 @@ I’ve started using Flow Engineering after years of struggling to find time for
 I structure the talk as a fun, story-based journey through enterprise IT, financial services, and a startup or two to share this powerful tool that gets incredible results. Attendees will get a link to all my materials and free examples to get started right away.
 ```
 
+Soon after there was [this LinkedIn post](https://www.linkedin.com/posts/devopsto_flowengineering-activity-6575378115470610432-B9U0) and [tweet (1 like!)](https://twitter.com/SteveElsewhere/status/1169615636290519042?s=20) requesting feedback on the idea.
+
 ### 4 Maps
 
 Initially, Flow Engineering was just a way I referred to my style of creating and applying simple value stream maps (initially called The Visible Value Delivery Program in 2018), and eventually grew to incorporate 3 more primary maps as well as ultimately a roadmap for improvement implementation.
