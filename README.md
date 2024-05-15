@@ -56,6 +56,11 @@ Early in 2021, the Flow Roadmap arose as a tool to leverage all of the insights 
   \
 ![Flow Engineering image 3](fe3.jpeg)
 
+### Flow Engineering Game
+We have created a Random Number Generator to create sample timing for the Flow Engineering game. It generates numbers for an 8-step process with 7 waiting steps in between.
+We've published this [live on PyScript](https://abd3721.pyscriptapps.com/flow-engineering-timing-generator/) (not sure whether this will live forever or not).
+You can also [find the code here](flow_engineering_timing_generator.py)
+
 ## Future
 
 Since then, it's been adopted by [others](https://xodiac.ca/services/flow-engineering) who are now [contributing to its direction and evolution](https://flowcollective.org), which is the reason for creating this repo to capture and foster the practices and resources that can help teams leverage techniques to improve the flow of value through organizations. 
